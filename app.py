@@ -1,6 +1,5 @@
 import json
 from flask import Flask, render_template, jsonify
-from graph_backend import GraphData
 
 app = Flask(__name__)
 
